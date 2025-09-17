@@ -9,6 +9,6 @@ if(operation == 1):
 elif(operation == 2):
     print("Result: ",num1 - num2)
 elif operation==3:
-    print("Result of Multiplication: ",num1*num2)
+    print("Result: ",num1*num2)
 elif operation==4:
-    print("Result of Division: ",num1/num2)
+    print("Result: ",num1/num2)
